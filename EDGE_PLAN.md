@@ -1,0 +1,5 @@
+- Use lightweight models (RandomForest)
+- TF-IDF instead of heavy transformers
+- Model size < 50MB
+- Can run on mobile using ONNX
+- Low latency prediction
